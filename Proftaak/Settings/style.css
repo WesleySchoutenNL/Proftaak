@@ -1,0 +1,43 @@
+.progress-bar {
+  background-color: #293d7a;
+  
+}
+
+.progress {
+    height: 50px;
+    border-radius: 20px;
+}
+
+.grey-background {
+    background-color: lightgray; /* of een andere gewenste grijstint */
+}
+
+.gear {
+    height: 50px; /* Stel de hoogte in op 50px */
+    width: auto; /* Zorg ervoor dat de breedte automatisch is, zodat de verhoudingen behouden blijven */
+}
+
+.GegevensSettings {
+    background-color: #f0f0f0; /* Grijze achtergrond */
+    border-radius: 10px; /* Ronde hoeken */
+    padding: 15px; /* Ruimte binnen de div */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optionele schaduw voor diepte */
+}
+
+.DoelSettings {
+    background-color: #f0f0f0; /* Grijze achtergrond */
+    border-radius: 10px; /* Ronde hoeken */
+    padding: 15px; /* Ruimte binnen de div */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optionele schaduw voor diepte */
+    margin-top: 30px;
+}
+
+body {
+    background-color: #f3f3f3;
+}
+
+#UpdateGegevens {
+    background-color: #293d7a;
+    border-color: #293d7a;
+    color: white;
+}

@@ -1,0 +1,65 @@
+body {
+    background-color: #F3F3F3;
+}
+
+
+.progress-bar {
+  background-color: #293d7a;
+  
+}
+
+.progress {
+    height: 50px;
+    border-radius: 20px;
+}
+
+
+.gear {
+    height: 50px; /* Stel de hoogte in op 50px */
+    width: auto; /* Zorg ervoor dat de breedte automatisch is, zodat de verhoudingen behouden blijven */
+}
+
+.GegevensSettings {
+    border-radius: 10px; /* Ronde hoeken */
+    padding: 15px; /* Ruimte binnen de div */
+}
+
+.DoelSettings {
+    border-radius: 10px; /* Ronde hoeken */
+    padding: 15px; 
+    margin-top: 30px;
+    background-color: white;
+}
+
+
+#UpdateGegevens {
+    background-color: #293d7a;
+    border-color: #293d7a;
+    color: white;
+}
+
+.DoelSettings p {
+    font-weight: bold;
+}
+
+.GegevensSettings p {
+    font-weight: bold;
+}
+
+.profileimg {
+    padding-top: 10px;
+    padding-bottom: 10px;
+} 
+
+.DoelSettingsDoel {
+    padding-top: 15px;
+}
+
+#WelcomeBack  {
+    height: 175px;
+}
+
+.grafiek {
+    margin-top: 35px; /* Pas de waarde aan zoals gewenst */
+}
+
